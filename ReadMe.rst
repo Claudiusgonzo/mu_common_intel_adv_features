@@ -8,6 +8,11 @@ This repository is a restructuring of open packages contributed by Intel.
 
 It is organized so that common code can be made available to any platform with minimal difficulty.
 
+Detailed Feature Information
+============================
+
+Far more details about using this repo can be found in: `Intel Features Readme <Intel_Readme.md>`_.
+
 Branch Status - release/202005
 ==============================
 
